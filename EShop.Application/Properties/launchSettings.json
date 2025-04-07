@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EShop.Application": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
